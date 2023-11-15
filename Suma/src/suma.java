@@ -15,7 +15,7 @@ public class suma {
         String digite2="digite su segundo numero entero";
         System.out.println(digite2);
         numero2=scaner.nextInt();
-        resultado=numero1+numero2;
+        resultado=numero1-numero2;
 
         String mensajeResultado="el resultado es="+String.valueOf(resultado);
        System.out.println(mensajeResultado);
