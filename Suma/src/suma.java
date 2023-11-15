@@ -19,6 +19,11 @@ public class suma {
 
         String mensajeResultado="el resultado es="+String.valueOf(resultado);
        System.out.println(mensajeResultado);
+       if(resultado>20)
+       {
+           System.out.println("el resultado es mayor a 20");
+       }
+
 
 
 
